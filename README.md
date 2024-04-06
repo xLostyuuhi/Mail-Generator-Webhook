@@ -1,1 +1,1 @@
-# mailgen-webhook-
+メールアドレス自動作成＋Discord Webhookに出力
